@@ -24,8 +24,8 @@ export function Hero() {
             Based in Aluva, Kerala, India
           </p>
           <h1 className="max-w-3xl text-balance font-serif text-4xl font-semibold leading-tight sm:text-5xl md:text-6xl">
-  Discover Kerala with Ayyappa Tours
-  </h1>
+            Handcrafted tours across Kerala
+          </h1>
           <p className="max-w-xl text-pretty text-lg leading-relaxed text-white/90">
             Hill stations, wildlife, backwaters and beach retreats. Every itinerary is curated, with
             24/7 support from first inquiry to safe return.
